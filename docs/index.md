@@ -5,3 +5,6 @@ The original idea for this project evolved from the idea of facilitating educati
 
 # Short delays
 Due to small delayes in arrival of the hardware and few deadlines on the course, the project took a snooze. Preperations were made to have the project in full swing by Monday the 20th of November via research on the desired game engine, tools and content. While we are waiting for the arrival of the needed hardware, the task is to run tutorials on the game engines and working on the project paper and presentation. /relaxz
+
+# Project paper and presentation
+Due to lack of work we now have an IEEE formatted Overleaf document which needs to be filled with content and a presentation which is 80% done. /relaxz    
