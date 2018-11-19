@@ -8,3 +8,6 @@ Due to small delayes in arrival of the hardware and few deadlines on the course,
 
 # Project paper and presentation
 Due to lack of work we now have an IEEE formatted Overleaf document which needs to be filled with content and a presentation which is 80% done. /relaxz    
+
+# Video editing tools
+Found a cool video editing tool called Lightworks which appears to be free. Played around with it and it seems work just fine for what it is intended, a promotion video. Now only to construct an idea! /relaxz
