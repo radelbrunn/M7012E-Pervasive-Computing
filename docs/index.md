@@ -14,3 +14,6 @@ Found a cool video editing tool called Lightworks which appears to be free. Play
 
 # Hardware has arrived!
 The hardware has arrived and some conclussions were made. Unreal engine had an unsustainable learning curve and we decided to go with Unity due to time constraints. Had setup a simple test project and managed to run it with Steam VR with the controllers. Apperantely the version of Unity provided lacked the support for this and we had to "downgrade" to a previous version. The error was that it lacked a file called "openvr_api.dll". Currently running Unity 2018.1.9f1. The integration of Leap Motion into that solution did not work due to version differences and has to be looked at. The Leap Motions visualizer did on the other hand show that Unity indeed has the capability to run it so it must be some assets and camera settings that we are misusing. More to come... /relaxz    
+
+# Progress!
+Integrated Leap Motion, Unity and HTC Vive pro and made it work together. Looked at some menus and decided to go with Hovercast VR menu. Looked at some object interaction and implementation. Looked and wrote own scripts to utilize Leap Motion(Finger count). Next on the todo list, one might want to be able to control objects with push of a button and design games... /relaxz
