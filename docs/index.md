@@ -17,3 +17,6 @@ The hardware has arrived and some conclussions were made. Unreal engine had an u
 
 # Progress!
 Integrated Leap Motion, Unity and HTC Vive pro and made it work together. Looked at some menus and decided to go with Hovercast VR menu. Looked at some object interaction and implementation. Looked and wrote own scripts to utilize Leap Motion(Finger count). Next on the todo list, one might want to be able to control objects with push of a button and design games... /relaxz
+
+# Project information
+This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. Github reposotory can be found at this link: https://github.com/relaxz/M7012E-Pervasive-Computing.git  
