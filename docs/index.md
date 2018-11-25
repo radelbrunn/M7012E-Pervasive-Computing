@@ -1,5 +1,8 @@
 Welcome to our glorious website that is committed to enlight you as a reader about the possibilities and opportunities to enrich and cultivate young minds with new technologies and gadgets. 
 
+# Project information
+This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. Github repository can be found at this link: https://github.com/relaxz/M7012E-Pervasive-Computing.git  
+
 # First encounter / The origins
 The original idea for this project evolved from the idea of facilitating education for young adults and how it can be achieved by using new and existing technologies. In order to get started with this project, a task specification has to be acquired and a strategy has to be conceived. For the first part (sprint) of the development of the project the idea was to look at some frameworks and hardware that supports Leap Motion, which is the leading role in sensors for hand tracking. Since the development and deployment of new software called Orion(2016), Leap motion has now support and capabilites to deploy their solutions in VR. The suggested hardware that is currently supported is the following: Oculus rift, Oculus go, HTC vive and HTC vive PRO. The selected hardware will be based on compatibility, portability, deployability, simplicity and usability. The next part that requires attention is the selection of compatible 3D modeling tool set that has the support for virtual reality. Currently supported game engines are the following: Unity, Unreal Engine. More to come... /relaxz   
 
@@ -18,5 +21,4 @@ The hardware has arrived and some conclussions were made. Unreal engine had an u
 # Progress!
 Integrated Leap Motion, Unity and HTC Vive pro and made it work together. Looked at some menus and decided to go with Hovercast VR menu. Looked at some object interaction and implementation. Looked and wrote own scripts to utilize Leap Motion(Finger count). Next on the todo list, one might want to be able to control objects with push of a button and design games... /relaxz
 
-# Project information
-This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. Github reposotory can be found at this link: https://github.com/relaxz/M7012E-Pervasive-Computing.git  
+
