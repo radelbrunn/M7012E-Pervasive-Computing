@@ -2,7 +2,7 @@ Welcome to our glorious website that is committed to enlight you as a reader abo
 
 # Project information
 This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. Github repository can be found at this link: https://github.com/relaxz/M7012E-Pervasive-Computing.git  
-More to come...(ie final project presentation and report, link to promotional video etc)   /relaxz
+More to come...(ie final project presentation and report, link to promotional video etc)  /relaxz
 
 # First encounter / The origins
 The original idea for this project evolved from the idea of facilitating education for young adults and how it can be achieved by using new and existing technologies. In order to get started with this project, a task specification has to be acquired and a strategy has to be conceived. For the first part (sprint) of the development of the project the idea was to look at some frameworks and hardware that supports Leap Motion, which is the leading role in sensors for hand tracking. Since the development and deployment of new software called Orion(2016), Leap motion has now support and capabilites to deploy their solutions in VR. The suggested hardware that is currently supported is the following: Oculus rift, Oculus go, HTC vive and HTC vive PRO. The selected hardware will be based on compatibility, portability, deployability, simplicity and usability. The next part that requires attention is the selection of compatible 3D modeling tool set that has the support for virtual reality. Currently supported game engines are the following: Unity, Unreal Engine. More to come... /relaxz   
