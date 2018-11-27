@@ -22,4 +22,5 @@ The hardware has arrived and some conclussions were made. Unreal engine had an u
 # Progress!
 Integrated Leap Motion, Unity and HTC Vive pro and made it work together. Looked at some menus and decided to go with Hovercast VR menu. Looked at some object interaction and implementation. Looked and wrote own scripts to utilize Leap Motion(Finger count). Next on the todo list, one might want to be able to control objects with push of a button and design games... /relaxz
 
-
+# Progress v2
+We now have a working menu fully integrated with Vive PRO, Leap Motion and Unity! We also have looked deeper into scripts and adding values to blocks and block collisions. More to come... /relaxz
