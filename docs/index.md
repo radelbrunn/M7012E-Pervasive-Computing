@@ -29,5 +29,5 @@ We now have a working menu fully integrated with Vive PRO, Leap Motion and Unity
 Acquired further knowledge on how to use Unity. Designed a game-room / classroom with its logic to check whether the spelling of a word or construction of a sentence is correct (using cubes). Now able to switch inbetween scenes either via the hand menu or just ingame. Formatted a structure for how a scene should be build. Produced a level system with varying difficulties. What is left now is to merge all of the individual work together. Should be fun...Maybe should have listened to Parner regarding not using Leap motion for vr classroom because well, the technology is not yet ready (or requires alot of work to function as expected). If anyone has another opinion or just would like to add something you can... /relaxz     
 
 # Promotional
-[![asciicast](https://github.com/relaxz/M7012E-Pervasive-Computing/blob/master/docs/blurry.png)](https://drive.google.com/open?id=1gDGUr5JbBHQzgSE4IniVE3evwY-Pt62s)
+[![asciicast](https://drive.google.com/file/d/1okWgBF0R-ynksxqB4JrPYHnPn41J7rdy/view?usp=sharing)](https://drive.google.com/open?id=1gDGUr5JbBHQzgSE4IniVE3evwY-Pt62s)
 
