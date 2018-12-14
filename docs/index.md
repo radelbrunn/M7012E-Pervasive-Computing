@@ -2,8 +2,7 @@ Welcome to our glorious website that is committed to enlight you as a reader abo
 
 # Project information
 This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. 
-## [Github repository can be found at this link](https://github.com/relaxz/M7012E-Pervasive-Computing.git )
-
+## [Project repository can be found at this link](https://github.com/relaxz/M7012E-Pervasive-Computing.git )
 ## [Project presentation can be found at this link](https://docs.google.com/presentation/d/1IkGo3z1DUmZVxLHEsAxb0_Y_3wPVwpXwVk_SkHmU0qc/edit?usp=sharing)
 ## [Project paper can be found at this link](https://www.overleaf.com/read/jgnsghwsghjf)
 
