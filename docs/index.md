@@ -2,8 +2,9 @@ Welcome to our glorious website that is committed to enlight you as a reader abo
 
 # Project information
 This project is conducted by 4 students at masters level for a course, Pervasive Computing(M7012E) at Luleå University of Technology. 
-[Github repository can be found at this link](https://github.com/relaxz/M7012E-Pervasive-Computing.git )
-[Project presentation can be viewed through this link](https://docs.google.com/presentation/d/1IkGo3z1DUmZVxLHEsAxb0_Y_3wPVwpXwVk_SkHmU0qc/edit?usp=sharing)
+## [Github repository can be found at this link](https://github.com/relaxz/M7012E-Pervasive-Computing.git )
+
+## [Project presentation can be viewed through this link](https://docs.google.com/presentation/d/1IkGo3z1DUmZVxLHEsAxb0_Y_3wPVwpXwVk_SkHmU0qc/edit?usp=sharing)
 More to come...(ie final project presentation and report, link to promotional video etc)  /relaxz
 
 # First encounter / The origins
