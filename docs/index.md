@@ -5,7 +5,7 @@ This project is conducted by 4 students at masters level for a course, Pervasive
 ## [Project repository can be found at this link](https://github.com/relaxz/M7012E-Pervasive-Computing.git )
 ## [Project presentation can be found at this link](https://docs.google.com/presentation/d/1IkGo3z1DUmZVxLHEsAxb0_Y_3wPVwpXwVk_SkHmU0qc/edit?usp=sharing)
 ## [Project paper can be found at this link](https://www.overleaf.com/read/jgnsghwsghjf)
-
+## [Project promotional video can be found at this link](https://drive.google.com/open?id=1gDGUr5JbBHQzgSE4IniVE3evwY-Pt62s)
 
 More to come...(ie final project presentation and report, link to promotional video etc)  /relaxz
 
