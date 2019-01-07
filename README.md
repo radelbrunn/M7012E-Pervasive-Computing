@@ -31,3 +31,6 @@ Coming soon – the Leap Motion Mobile Platform
 # Further information
 Further information can be found at:  
 https://relaxz.github.io/M7012E-Pervasive-Computing/
+
+# Disclaimer
+Due to nature of things (mainly copyright infringement), the project itself may not be uploaded on github as it contains assets that does not belong to us. This site is only used in relations to this course(M7012E at Luleå Technical University). 
