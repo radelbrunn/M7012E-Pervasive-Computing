@@ -8,6 +8,12 @@ HTC Vive
 etc...
 ### Software
 Orion beta (for integration of leap motion in VR)  
+#### Requirements
+Windows 7 64-bit or higher  
+Leap Motion Orion 4.0.0  
+Oculus SDK 1.3 (requires Unity 5.6+)  
+HTC Vive (requires Unity 5.6+)  
+
 Unity (3D modeling tool)  
 Unreal engine (3D modeling tool)  
 ## Setup instructions (HTC Vive)
