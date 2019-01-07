@@ -15,6 +15,7 @@ Oculus SDK 1.3 (requires Unity 5.6+)
 HTC Vive (requires Unity 5.6+)  
 #### Requirements (3D modeling tool)
 Unity  
+or  
 Unreal engine  
 ## Setup instructions (HTC Vive)
 1. Attach your kit  
