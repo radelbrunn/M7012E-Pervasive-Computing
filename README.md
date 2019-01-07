@@ -17,12 +17,17 @@ HTC Vive (requires Unity 5.6+)
 Unity  
 or  
 Unreal engine  
+#### Unity modules
+Core assets  
+Leap motion interaction engine  
+graphics renderer  
+hands module  
+[More info on modules](https://leapmotion.github.io/UnityModules/)  
 ## Setup instructions (HTC Vive)
 1. Attach your kit  
 2. Set up your controller  
 3. Explore the Gallery  
 4. Start building  
-
 [Further instructions and documentations can be found at leap motions own development guide:](http://leapmotion-developer.squarespace.com/documentation)
 
 ## Android VR
