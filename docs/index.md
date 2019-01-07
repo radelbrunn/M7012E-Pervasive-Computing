@@ -33,6 +33,3 @@ Acquired further knowledge on how to use Unity. Designed a game-room / classroom
 
 # Promotional Video
 [![asciicast](http://smartgimmick.com/wp-content/uploads/2017/06/Promotional-New-font-b-Leap-b-font-font-b-Motion-b-font-font-b-Controller-b-500x500.jpg)](https://drive.google.com/open?id=1gDGUr5JbBHQzgSE4IniVE3evwY-Pt62s)
-
-# Presentation 
-[Project presentation can be viewed through this link](https://docs.google.com/presentation/d/1IkGo3z1DUmZVxLHEsAxb0_Y_3wPVwpXwVk_SkHmU0qc/edit?usp=sharing)
