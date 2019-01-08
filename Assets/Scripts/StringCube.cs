@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Cubes which may contain text for the spelling game
 public class StringCube : MonoBehaviour, ILetters {
     public string content;
-    private Vector3 initialPosition;
+    private Vector3 initialPosition; // Used for resetting once the cube hits the floor
 
     public string GetLetters()
     {
