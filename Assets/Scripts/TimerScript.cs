@@ -4,10 +4,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Implements a basic timer
 public class TimerScript : MonoBehaviour {
 
-    public float startSeconds;
-    public Text label;
+    public float startSeconds; // Start value in seconds
+    public Text label; // Label is for displaying current time
     private float remaining;
     public bool paused;
 
@@ -20,7 +21,7 @@ public class TimerScript : MonoBehaviour {
         updateLabel();
     }
 
-    public string GetRemainingTimeFormatted() {
+    public string GetRemainingTimeFormatted() { // Formats into MM:SS
         int minutes = ((int)remaining) / 60;
         int seconds = ((int)remaining) % 60;
         return String.Format("{0}:{1}", minutes, seconds.ToString("D2"));
@@ -47,7 +48,7 @@ public class TimerScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if (!paused) {
-            remaining -= Time.deltaTime;
+            remaining -= Time.deltaTime; // Simply count down
             if (remaining < 0)
             {
                 if (label != null)
