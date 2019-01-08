@@ -25,7 +25,7 @@ public class SpellLevel : MonoBehaviour
     }
 
     public void LoadLevel()
-    {
+    { // Read the entire specified level.
         using (StreamReader stream = new StreamReader(pathToLevel))
         {
             string json = stream.ReadToEnd();
@@ -44,8 +44,8 @@ public class SpellLevel : MonoBehaviour
             this.old = "";
         }
         this.stringChanged(this.bc.content.ToUpper());
-        this.sumComponent.text = this.old;
-        if (correct && tc.Expired()) {
+        this.sumComponent.text = this.old; // Update the current value of the held string
+        if (correct && tc.Expired()) { // Go to next lesson if the string is the answer
             tc.paused = true;
             tc.resetTimer();
             nextLesson();
@@ -62,7 +62,7 @@ public class SpellLevel : MonoBehaviour
         }
     }
 
-    private void check() {
+    private void check() { // Do regular string comparison to see if level is completed
         if (old.ToUpper() == this.level.answers[this.lessonIndex].ToUpper()) {
             correct = true;
             updateBlackboardDescription("Correct!");
@@ -77,11 +77,11 @@ public class SpellLevel : MonoBehaviour
         }
     }
 
-    public void stringChanged(string current) {
+    public void stringChanged(string current) { 
         if (old == null) {
             old = current.ToUpper();
             check();
-        } else if (current.ToUpper() != old.ToUpper()) {
+        } else if (current.ToUpper() != old.ToUpper()) { // Work around capitalization
             old = current.ToUpper();
             check();
         }
