@@ -1,11 +1,16 @@
-# VR Classroom  with Leap Motion
+# M7012E-Pervasive-Computing
 
 This projects aims to show how virtual reality could be used in education. It provides two types of levels, math and spelling/language. 
 
 ## Prerequisites
-* Unity 2018.2.16f1
+
+### Hardware
 * A VR headset (tested with HTC Vive pro)
 * Leap Motion Controler mounted on the headset
+
+### Software
+* Unity 2018.2.16f1
+* Orion beta (for integration of leap motion in VR)  
 
 ## 3rd-party Assets
 Some of the assets in the project has been taken from Unity Asset Store and is placed in the 3rd-party folder. *These are not to be redistributed and are excluded from git.*
@@ -17,10 +22,17 @@ Some of the assets in the project has been taken from Unity Asset Store and is p
     * Used to make the hand menu for the game. 
     * Downloaded from: https://gallery.leapmotion.com/hovercast-vr-interface/
 * Leap motion
-    * Contains the core assets for leap motion.
+    * Contains the core assets and interaction engine for leap motion.
     * Downloaded from https://developer.leapmotion.com/unity/#5436356
 * SteamVR & SteamVR_Input
     * Used to enable a VR camera for the VR headset. 
+
+## Setup instructions (HTC Vive)
+1. Attach your kit  
+2. Set up your controller  
+3. Explore the Gallery  
+4. Start building  
+[Further instructions and documentations can be found at leap motions own development guide:](http://leapmotion-developer.squarespace.com/documentation)
 
 ## How to run the project
 
@@ -109,3 +121,9 @@ Adding more levels is made easy by having the LevelData class serializable as js
 }
 ```
 
+## Android VR
+Coming soon – the Leap Motion Mobile Platform
+
+# Further information
+Further information can be found at:  
+https://relaxz.github.io/M7012E-Pervasive-Computing/
