@@ -1,0 +1,23 @@
+﻿{
+    "lessons": 
+        [
+            "Add cubes to the table to form the sum of 1 + 1",
+            "Add cubes to the table to form the sum of 2 + 3",
+            "Add cubes to the table to form the sum of 3 - 2",
+            "Add cubes to the table to form the sum of 7 + 3"
+        ],
+    "answers":  
+        [
+            "2",
+            "5",
+            "1",
+            "10"
+        ],
+    "timeLimits": 
+        [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ]
+}

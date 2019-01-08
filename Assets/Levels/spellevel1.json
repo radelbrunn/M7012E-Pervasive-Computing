@@ -1,0 +1,23 @@
+﻿{
+    "lessons": 
+        [
+            "Put the first five letters of the alphabet in the correct order.",
+            "Spell the synonym of 'needy'",
+            "Spell the antonym of 'good'",
+            "Finish the sentence 'I want to ___ two bottles of ____"
+        ],
+    "answers":  
+        [
+            "abcde",
+            "poor",
+            "bad",
+            "buymilk"
+        ],
+    "timeLimits": 
+        [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ]
+}

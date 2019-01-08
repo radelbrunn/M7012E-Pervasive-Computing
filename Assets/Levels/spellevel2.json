@@ -1,0 +1,25 @@
+﻿{
+    "lessons": 
+        [
+            "Spell the past-tense of the word 'read'",
+            "The acronym for Estimated Time of Arrival",
+            "Past-tense of the word 'eat'",
+            "You drink it when you are thirsty",
+			"Finish the sentence 'Someone you hold __'"
+        ],
+    "answers":  
+        [
+            "READ",
+            "ETA",
+            "ATE",
+            "WATER",
+			"DEAR"
+        ],
+    "timeLimits": 
+        [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ]
+}
