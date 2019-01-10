@@ -62,13 +62,13 @@ Sometimes the htc vive desides to mess up the positioning and you can end up out
 
 If some components are not responding like the blackboard not responding to changes. Make sure the controller objects have the correct variables and have references to the necessary game objects.
 
-The **GameControler** should have:
+The **GameController** should have:
 * A Game Type
     * Either 'math' or 'spelling'
 * A interaction objects reference
     * The interaction objects can be found as a child to the Stage Root.
 
-The **Level Controler** should have either a MathLevel- or SpellLevel component attached to it.
+The **Level Controller** should have either a MathLevel- or SpellLevel component attached to it.
 
 A MathLevel component needs:
 * A Sum Component
@@ -79,8 +79,8 @@ A MathLevel component needs:
     * The Text component on the blackboard where the description is displayed. It is found in Stage Root -> Blackboard -> Canvas -> Description
 * TC (Timer Component)
     * A component that deals with timing and delays. Should be at the root in the scene heirarchy with a TimerScript attached.
-* Controler 
-    * A Reference to the GameControler at the root. 
+* Controller 
+    * A Reference to the GameController at the root. 
 * Path To Level
     * A string path to the json file describing the level. The current four levels are found at:
         * Math level 1: ./Assets/Levels/matlevel1.json
@@ -98,7 +98,7 @@ A SpellLevel component needs the same as a MathLevel aswell as:
 Adding more levels is made easy by having the LevelData class serializable as json. 
 1. Create a new json file in Assets/levels with the format seen below.
 2. Create a new scene and copy/paste the previous levels scene content (math2 or spell2). 
-3. In the LevelControler gameObject, update the 'pathToLevel' to match the new json file created. 
+3. In the LevelController gameObject, update the 'pathToLevel' to match the new json file created. 
 4. Change the value of the cubes to match the level. 
 
 
