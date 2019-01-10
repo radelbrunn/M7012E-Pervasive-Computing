@@ -6,7 +6,7 @@ This projects aims to show how virtual reality could be used in education. It pr
 
 ### Hardware
 * A VR headset (tested with HTC Vive pro)
-* Leap Motion Controler mounted on the headset
+* Leap Motion Controller mounted on the headset
 
 ### Software
 * Unity 2018.2.16f1
